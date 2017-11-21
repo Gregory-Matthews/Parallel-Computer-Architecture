@@ -1,0 +1,1 @@
+To begin the SSE Assignment, we had to consider that the address locations for allocating space on the virtual address space has to be 16 byte aligned, as per SSE’s requirements when working with a 128 bit XMM registers and attempting to store 4 floats which are 4 bytes each, or 32 bits.
