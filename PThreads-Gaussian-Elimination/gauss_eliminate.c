@@ -1,5 +1,6 @@
 /* Gaussian elimination code.
- * Author: Naga Kandasamy
+ * By Greg Matthews
+ * Skeleton Code by: prof. Naga Kandasamy
  * Date created: 02/07/2014
  * Date of last update: 01/30/2017
  * Compile as follows: gcc -o gauss_eliminate gauss_eliminate.c compute_gold.c -lpthread -std=c99 -lm
