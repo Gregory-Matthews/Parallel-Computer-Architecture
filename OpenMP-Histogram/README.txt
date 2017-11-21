@@ -1,0 +1,1 @@
+ this week’s experiment, the objective was to implement a way to parallelize a Histogram generating function by working with the OpenMP API in C to design a parallel function that has better CPU runtime than the original serial version
