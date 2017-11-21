@@ -1,5 +1,6 @@
-/* Author: Naga Kandasamy
- * Date: 01/25/2017
+/* By Greg Matthews 1/25/17
+ * Skeleton Code by: Prof. Naga Kandasamy
+ *
  *
  * compile as follows: gcc -o histogram histogram.c -std=c99 -fopenmp -lm
  */
